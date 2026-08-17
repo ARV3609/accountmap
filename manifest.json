@@ -1,0 +1,16 @@
+{
+  "name": "AccountMap — Work Account Tracker",
+  "short_name": "AccountMap",
+  "description": "Which Gmail did I use for this website? An offline, encrypted, local-first account tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F3F0E8",
+  "theme_color": "#F3F0E8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
