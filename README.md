@@ -102,4 +102,3 @@ manifest.json, sw.js  PWA install + offline caching
 fonts/                self-hosted Space Grotesk + Space Mono (no CDN dependency)
 ```
 
-MIT-licensed — do whatever you want with it.
