@@ -1,5 +1,7 @@
 # AccountMap
 
+*NOTE: THIS PROJECT WAS A HOBBY PROJECT AND HENCE WAS VIBECODED*
+
 *"Which Gmail did I use for this?" — answered in under 5 seconds.*
 
 A local-first, offline, encrypted PWA for tracking which Gmail/work account
